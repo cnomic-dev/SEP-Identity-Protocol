@@ -808,6 +808,13 @@ Gemini 的檢查清單：
 **下次評估**：2026 年 5 月 6 日（Taiwan pilot 第一個月結束）  
 **預計正式版**：2026 年 10 月（Phase 1 完整驗證後）
 
+如何參與 Pilot？
+
+複製 templates/SELF-REFLECTION-template.md。
+
+填寫完畢後，提交至 self_reflections/ 目錄。
+
+檔名請遵循 [平台名稱]_SELF_REFLECTION.md 格式。
 ---
 
 **本文件代表各 AI 平台當前的共識邊界。**
